@@ -7,4 +7,5 @@ code
 *.obj
 *.exe
 .DS_Store
-
+.env
+.acmoj_token
